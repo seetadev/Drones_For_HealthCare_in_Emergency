@@ -1,0 +1,5 @@
+.env
+
+*.zip
+
+node_modules

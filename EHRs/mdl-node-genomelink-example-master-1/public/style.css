@@ -1,0 +1,21 @@
+/* square cards */
+.demo-card-image.mdl-card {
+  width: 320px;
+  height: 320px;
+}
+.mdl-card__supporting-text{
+  color: #000;
+  background-color: #fff;
+  opacity: 0.8;
+  width: 100%;
+}
+
+/* Login Button */
+.mdl-button--accent.mdl-button--accent.mdl-button--raised, .mdl-button--accent.mdl-button--accent.mdl-button--fab {
+  background-color: #aabee4;
+}
+
+/* Center items */
+.mdl-grid.center-items {
+  justify-content: center;
+}
