@@ -1,4 +1,4 @@
-# Drones_For_HealthCare_in_Emergency
+# Drones For Cost Effective HealthCare Delivery in Emergency Hit Areas
 Detecting and monitoring UAVs &amp; Drone traffic to enhance their management and ensure security, privacy and safety of citizens using object detection, decentralized data storage and predictive analysis for enabling the bottom of the pyramid through EHR and radiology services on the IBM cloud in crisis hit areas and emergency situations.
 
 Innovation: A greater and more seamless flow of information within a digital health care infrastructure, created by electronic health records (EHRs), encompasses and leverages digital progress and can transform the way care is delivered and compensated especially in crisis hit areas and emergency affected regions around the world.
@@ -9,30 +9,30 @@ A more safe & regulated local air traffic of drones & UAVs with availability of 
 
 Business Benefits in Crisis Hit areas:
 1. Patients
-•Make instant appointments with a doctor and get quick access to e-records in emergency hit areas.
+•Make instant appointments with a doctor and get quick access to e-records in emergency hit areas;
 •Computer-aided detection will help in early prediction and diagnosis of diseases in crisis situations.
 
 2. Doctors and Hospitals
-•Prioritize and handle appointments better in crisis hit areas.
-•Issue prescriptions
-•Coordinate with specialists.
-•Access to accurate records.
+•Prioritize and handle appointments better in crisis hit areas;
+•Issue prescriptions;
+•Coordinate with specialists;
+•Access to accurate records;
 •Improved care.
 
 3. Administrator and Insurers
-•Connect all stakeholders
-•Personalize care treatment.
-• Accurate and timely payments
-•Reduce the cost of centralized systems
+•Connect all stakeholders;
+•Personalize care treatment;
+• Accurate and timely payments;
+•Reduce the cost of centralized systems.
 
 4. Employees
-•Administer Benefit.
-•Reduce healthcare costs to employees in emergency affected regions.
-•Reward employees
+•Administer Benefit;
+•Reduce healthcare costs to employees in emergency affected regions;
+•Reward employees;
 •Offer affordable benefit packages.
 
 5. Research Institutions
-•Computer-aided detection of diseases and development of prevention models.
+•Computer-aided detection of diseases and development of prevention models;
 •Personalized medicine and drug discovery practice.
 
 Notable Features:
