@@ -1,4 +1,4 @@
-# Drones For Cost Effective HealthCare Delivery in Emergency Hit Areas
+# Drones, EHR (Electronic Health Records) as a Service and Radiology on the Cloud For Cost Effective HealthCare Delivery in Emergency Hit Areas
 Detecting and monitoring UAVs &amp; Drone traffic to enhance their management and ensure security, privacy and safety of citizens using object detection, decentralized data storage and predictive analysis for enabling the bottom of the pyramid through EHR and radiology services on the IBM cloud in crisis hit areas and emergency situations.
 
 Innovation: A greater and more seamless flow of information within a digital health care infrastructure, created by electronic health records (EHRs), encompasses and leverages digital progress and can transform the way care is delivered and compensated especially in crisis hit areas and emergency affected regions around the world.
