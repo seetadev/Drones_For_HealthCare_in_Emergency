@@ -12,6 +12,9 @@ Decentralized Medical Counseling Portal using Ethereum Blockchain and Embark Too
 
 Security of Medical Reports and Data using NuCypher Re-encryption protocol - https://www.youtube.com/watch?v=0-AiUsoNZNQ
 
+EHR as a Service Google Drive Repository - https://drive.google.com/drive/folders/1vhz4n2Kwc4ANKCmTN4TKaP6dj-zWu4es?ogsrc=32
+
+
 A more safe & regulated local air traffic of drones & UAVs with availability of movement data and prediction of future of conditions in emergency hit areas. Wish to share the technical details of the implementation: https://sites.google.com/view/latcglobal/home
 
 Video demonstration of Drone Monitoring and Management - https://www.youtube.com/watch?v=GfIgqdOF7N4
@@ -62,4 +65,5 @@ Notable Features:
 
 Tools: We engineer, develop technology on ethereum blockchain using NuCypher protocol, SAP UI5 and IBM Cloud, OSS spreadsheet and PACS (Picture Archiving and Communication Systems). 
 
+Post Hackathon Plan - Integration with Healthcare and medical apps developed by us - http://aspiringapps.com/web/home/portfolio-health.html
 
