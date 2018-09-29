@@ -5,7 +5,8 @@ Innovation: A greater and more seamless flow of information within a digital hea
 1. EHRs helps in care coordination.
 2. EHRs helps in making health care ecosystem proactive, accessible and authentic in emergency hit areas.
 3. EHRs with the help of computer aided detection will help in early prediction and diagnosis of diseases in crisis situations.
-A more safe & regulated local air traffic of drones & UAVs with availability of movement data and prediction of future of conditions in emergency hit areas.
+
+A more safe & regulated local air traffic of drones & UAVs with availability of movement data and prediction of future of conditions in emergency hit areas. Wish to share the technical details of the implementation: https://sites.google.com/view/latcglobal/home
 
 Business Benefits in Crisis Hit areas:
 1. Patients
