@@ -6,9 +6,18 @@ Innovation: A greater and more seamless flow of information within a digital hea
 2. EHRs helps in making health care ecosystem proactive, accessible and authentic in emergency hit areas.
 3. EHRs with the help of computer aided detection will help in early prediction and diagnosis of diseases in crisis situations.
 
+Video Demo of the EHR as a Service Application - https://www.youtube.com/watch?v=S1V4mJl--wg&t=3s
+
+Decentralized Medical Counseling Portal using Ethereum Blockchain and Embark Tools - https://www.youtube.com/watch?v=CzUVWGtteZI&t=6s
+
+Security of Medical Reports and Data using NuCypher Re-encryption protocol - https://www.youtube.com/watch?v=0-AiUsoNZNQ
+
 A more safe & regulated local air traffic of drones & UAVs with availability of movement data and prediction of future of conditions in emergency hit areas. Wish to share the technical details of the implementation: https://sites.google.com/view/latcglobal/home
 
 Video demonstration of Drone Monitoring and Management - https://www.youtube.com/watch?v=GfIgqdOF7N4
+
+Sendgrid API for receiving details of Drones - https://www.youtube.com/watch?v=NfTrtlRizO4
+
 
 Utilization of Drones in Safer and more efficient surveys: Accurate, georefferenced point clouds for measurements, 3d visualization and export.Conduct volume measurements in the point cloud, create contour lines and digitize models for break lines. Use the quality report to access and control data quality.
 
