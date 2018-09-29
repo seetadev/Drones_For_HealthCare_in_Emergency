@@ -18,6 +18,7 @@ Video demonstration of Drone Monitoring and Management - https://www.youtube.com
 
 Sendgrid API for receiving details of Drones - https://www.youtube.com/watch?v=NfTrtlRizO4
 
+ARFrame and OpenTok API app for Drones - https://drive.google.com/drive/folders/1MFr2cNyCi0Wx_VWe7gR-s9V_oifLHGcA?ogsrc=32
 
 Utilization of Drones in Safer and more efficient surveys: Accurate, georefferenced point clouds for measurements, 3d visualization and export.Conduct volume measurements in the point cloud, create contour lines and digitize models for break lines. Use the quality report to access and control data quality.
 
