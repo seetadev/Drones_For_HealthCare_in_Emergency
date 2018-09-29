@@ -8,6 +8,10 @@ Innovation: A greater and more seamless flow of information within a digital hea
 
 A more safe & regulated local air traffic of drones & UAVs with availability of movement data and prediction of future of conditions in emergency hit areas. Wish to share the technical details of the implementation: https://sites.google.com/view/latcglobal/home
 
+Video demonstration of Drone Monitoring and Management - https://www.youtube.com/watch?v=GfIgqdOF7N4
+
+Utilization of Drones in Safer and more efficient surveys: Accurate, georefferenced point clouds for measurements, 3d visualization and export.Conduct volume measurements in the point cloud, create contour lines and digitize models for break lines. Use the quality report to access and control data quality.
+
 Business Benefits in Crisis Hit areas:
 1. Patients
 •Make instant appointments with a doctor and get quick access to e-records in emergency hit areas;
@@ -47,3 +51,5 @@ Notable Features:
 8. Drone Incident Reporting : Publish drone incident reports, preventive measures and remediation using a decentralized twitter application over the Ethereum blockchain network and Embark Tools.
 
 Tools: We engineer, develop technology on ethereum blockchain using NuCypher protocol, SAP UI5 and IBM Cloud, OSS spreadsheet and PACS (Picture Archiving and Communication Systems). 
+
+
