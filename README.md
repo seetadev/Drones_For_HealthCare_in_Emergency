@@ -25,6 +25,11 @@ ARFrame and OpenTok API app for Drones - https://drive.google.com/drive/folders/
 
 Utilization of Drones in Safer and more efficient surveys: Accurate, georefferenced point clouds for measurements, 3d visualization and export.Conduct volume measurements in the point cloud, create contour lines and digitize models for break lines. Use the quality report to access and control data quality.
 
+Crisis Affected Environment Navigation: Show environment in 3D on the web. Navigate through the model, observe surroundings in detail from an aerial perspective. Create fly-through videos to share with emergency team.
+
+Monitoring of affected regions - With georeferenced outputs and quick data acquistion, easily monitor regions over time using Digital surface models and Orthomosaics.
+Measurements - Volume calculation in the cloud in the point cloud is intuitive. Outpus are compatible with CAD software.
+
 Business Benefits in Crisis Hit areas:
 1. Patients
 •Make instant appointments with a doctor and get quick access to e-records in emergency hit areas;
